@@ -1,0 +1,5 @@
+linux
+sinua
+lonyt
+redhat-linux
+
